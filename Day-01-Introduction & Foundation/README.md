@@ -13,13 +13,13 @@ Rather than being tool-centric, Data Science focuses on:
 • Designing optimized analytical or predictive solutions
 • Communicating insights effectively to stakeholders
 
-![Data Science Roadmap](images/DS-Roadmap.jpg)
+![Data Science Roadmap](Images/DS-Roadmap.jpg)
 
 Data Science Learning Roadmap
 
 To avoid unstructured learning, I analyzed and finalized a comprehensive roadmap that outlines the major skill areas required to become a well-rounded Data Scientist.
 
-![Learning Journey Overview](images/DS-image-Pic.png)
+![Learning Journey Overview](Images/DS-image-Pic.png)
 
 Core Skill Areas Identified
 
