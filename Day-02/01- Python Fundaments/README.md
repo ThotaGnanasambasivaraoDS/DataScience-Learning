@@ -8,7 +8,7 @@ The objective of this day was not just to learn syntax, but to clearly understan
 Visual Overview  
 Below is a mind map that visually represents the Python fundamentals covered on Day 2 and how they are connected as part of a Data Science foundation.
 
-![Python Fundamentals Mind Map](python_fundamentals.png)
+![Python Fundamentals Mind Map](pythonfundaments.png)
 
 Learning Objectives  
 - Understand Python setup and development environment  
